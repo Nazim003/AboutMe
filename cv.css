@@ -1,0 +1,36 @@
+body{
+    font-family: Serif;
+}
+.prof{
+    color:#ffa5ab ;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.heading{
+    font-family: cursive;
+    font-size: 50px;
+    color: #B5838D;
+}
+.data{
+    font-family: Monospace;
+    color:#a53860;
+}
+
+.summary{
+    color:#FF0707 ;
+    font-family: Monospace;
+}
+.skills{
+    color:#79B3B4 ;
+}
+
+.skill_name1{
+    color: #FE2868;
+}
+
+.one{
+    color:#ABC7CA;
+    font-family: cursive;
+    font-size: 80px;
+}
